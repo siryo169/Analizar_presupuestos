@@ -1,0 +1,3 @@
+Este proyecto consiste en un software que sea capaz de extraer los datos de los presupuestos de una Admón. pública, empresa o universidad usando un ETL. (https://www.ibm.com/topics/etl)
+Posteriormentecrearemos un modelo de datos unitario para todos los presupuestos basado en el modelo de cubo o modelo OLAP, este modelo de datos nos servirá para describir de una forma más exacta un concepto presupuestario y poder hacer cosas como ordenarlo jerarquicamente o analizarlo. (https://www.geeksforgeeks.org/multidimensional-data-model/ )
+Finalmente se montará un servicio de análisis encima metiendo Metabase. (https://www.metabase.com/)
